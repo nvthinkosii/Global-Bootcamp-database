@@ -1,4 +1,4 @@
-# Global Coding Bootcamp Platform (MySQL Project)
+# Edu Bootcamp Project (MySQL Project)
 
 ## Overview
 This project is a MySQL database designed for a global coding bootcamp platform.
